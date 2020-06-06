@@ -19,7 +19,7 @@
         <shiro.version>1.4.2</shiro.version>
         <mysql.version>8.0.18</mysql.version>
         <mybatis.version>3.5.3</mybatis.version>
-        <spring.security.version>5.2.1.RELEASE</spring.security.version>
+        <spring.security.version>5.3.3.RELEASE</spring.security.version>
     </properties>
 
     <!-- 锁定jar包版本 -->
