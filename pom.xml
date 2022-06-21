@@ -17,7 +17,7 @@
         <slf4j.version>2.0.0-alpha1</slf4j.version>
         <log4j.version>1.2.17</log4j.version>
         <shiro.version>1.4.2</shiro.version>
-        <mysql.version>8.0.18</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <mybatis.version>3.5.3</mybatis.version>
         <spring.security.version>5.3.3.RELEASE</spring.security.version>
     </properties>
